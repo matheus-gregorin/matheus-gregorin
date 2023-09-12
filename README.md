@@ -38,8 +38,8 @@ Aqui estão alguns dos meus projetos espero que goste!! 🏋❤️‍🔥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-gregorin&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-gregorin&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-gregorin&hide_progress=true&theme=dark)
-
 
 ## - Redes Sociais
 
@@ -47,3 +47,5 @@ Aqui estão alguns dos meus projetos espero que goste!! 🏋❤️‍🔥
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://chrome.google.com/webstore/detail/gmail/pjkljhegncpnkpknbcohdijeoejaedia?hl=pt-BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheus-gregorin/matheus-gregorin/)
+
+
