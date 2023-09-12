@@ -1,9 +1,8 @@
 # Olá!, seja muito bem-vindo! 💻
 
 <br>
-Me chamo Matheus e atuo na arêa de tecnologia como desenvolvedor back-end desde 2022, curso Analise e Desenvolvimento de Sistema na @SptechSchool.
-Adoro me desafiar em objetivos novos e ousados sempre com a itenção de melhorar minhas técnicas e evoluir diáriamente. 
-Aqui estão alguns dos meus projetos espero que goste!! 🏋❤️‍🔥 
+Me chamo Matheus e atuo na área de tecnologia como desenvolvedor back-end desde 2022. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na @SptechSchool.
+Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de aprimorar minhas técnicas e evoluir diariamente. Aqui estão alguns dos meus projetos, espero que goste!! 🏋❤️‍🔥 
 <br>
 
 ## - Tecnologias de domíno
