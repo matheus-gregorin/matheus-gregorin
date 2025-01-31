@@ -1,7 +1,7 @@
 # Olá!, seja muito bem-vindo! 💻
 
 <br>
-Me chamo Matheus e atuo na área de tecnologia como desenvolvedor back-end desde 2022. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na @SptechSchool.
+Me chamo Matheus e atuo na área de tecnologia como desenvolvedor back-end desde 2022. Atualmente, sou formado em Análise e Desenvolvimento de Sistemas pela @SptechSchool.
 Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de aprimorar minhas técnicas e evoluir diariamente. Aqui estão alguns dos meus projetos, espero que goste!! 🏋❤️‍🔥 
 <br>
 
@@ -15,6 +15,7 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <br>
   <br>
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> |
   <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> | 
   <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <br>
@@ -27,7 +28,9 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
   <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> | 
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | 
   <img align="center" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> | 
-  <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <br>
+  <br>
+  <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <br>
   <br>
 </div>
