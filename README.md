@@ -1,4 +1,4 @@
-# Olá!, seja muito bem-vindo! 💻
+# Olá! seja muito bem-vindo! 💻
 
 <br>
 Me chamo Matheus e atuo na área de tecnologia como desenvolvedor back-end desde 2022. Atualmente, sou formado em Análise e Desenvolvimento de Sistemas pela @SptechSchool.
