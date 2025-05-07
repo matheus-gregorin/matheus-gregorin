@@ -5,7 +5,9 @@ Me chamo Matheus e atuo na área de tecnologia como desenvolvedor back-end desde
 Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de aprimorar minhas técnicas e evoluir diariamente. Aqui estão alguns dos meus projetos, espero que goste!! 🏋❤️‍🔥 
 <br>
 
-## - Tecnologias de domíno Backend
+### - Tecnologias de domíno
+
+## - Backend
 
 <div style="display: inline_block">
   <img align="center" alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> | 
@@ -18,7 +20,7 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
   <br>
 </div>
 
-## - Tecnologias de domíno Frontend
+## - Frontend
 
 <div style="display: inline_block">
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> |
@@ -27,20 +29,20 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | 
 </div>
 
-## - Tecnologias de domíno Databases
+## - Databases
 
 <div style="display: inline_block">
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | 
   <img align="center" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> | 
 </div>
 
-## - Tecnologias de domíno Cloud
+## - Cloud
 
 <div style="display: inline_block">
   <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> |
 </div>
 
-  ## - Tecnologias de domíno libraries
+  ## - Libraries
 
 <div style="display: inline_block">
   <img align="center" alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">  |
