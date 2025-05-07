@@ -35,6 +35,7 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
 <div style="display: inline_block">
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | 
   <img align="center" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> |
+  <img align="center" alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> |
   <br>
 </div>
 
@@ -52,6 +53,15 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
   <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> |
   <br>
   <br>
+</div>
+
+## - IDES
+<div style="display: inline_block">
+  <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">  |
+  <img align="center" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">  |
+  <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  |
+    <br>
+    <br>
 </div>
 
 ## - Atividades
