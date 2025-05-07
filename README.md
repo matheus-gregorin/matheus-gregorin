@@ -50,6 +50,7 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
   <img align="center" alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">  |
   <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> |
   <br>
+  <br>
 </div>
 
 ## - Atividades
