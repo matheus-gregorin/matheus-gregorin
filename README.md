@@ -9,21 +9,11 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
 
 <div style="display: inline_block">
   <img align="center" alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> | 
-  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align="center" alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
-  <br>
-  <br>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <br>
-  <br>
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> |
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> |
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> |
   <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> | 
-  <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <br>
-  <br>
-  <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> | 
-  <br>
-  <br>
-  <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> |
   <br>
   <br>
 </div>
@@ -42,6 +32,19 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
 <div style="display: inline_block">
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | 
   <img align="center" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> | 
+</div>
+
+## - Tecnologias de domíno Cloud
+
+<div style="display: inline_block">
+  <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> |
+</div>
+
+  ## - Tecnologias de domíno libraries
+
+<div style="display: inline_block">
+  <img align="center" alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">  |
+  <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
 ## - Atividades
