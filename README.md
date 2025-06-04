@@ -38,7 +38,6 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
 </div
 
 ### - Databases
-
 <div style="display: inline_block">
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | 
   <img align="center" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> |
