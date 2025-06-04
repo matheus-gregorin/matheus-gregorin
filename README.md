@@ -34,7 +34,6 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
 <div style="display: inline_block">
   <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <br>
-  <br>
 </div>
 
 ### - Databases
